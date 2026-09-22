@@ -1,3 +1,13 @@
+<!-- adado:brand:v1 -->
+<p align="center"><img src="https://raw.githubusercontent.com/diginoz-com-au/adado-automation/master/.adado/adado-logo.png" width="96" alt="AdaDo logo" /></p>
+
+<h3 align="center">AdaDo Fork</h3>
+<p align="center"><em>Part of the AdaDo App Store — every app in the AdaDo ecosystem runs as a private, per-user isolated instance.</em></p>
+<p align="center"><a href="https://github.com/n8n-io/n8n">Upstream: n8n-io/n8n</a></p>
+
+---
+<!-- /adado:brand:v1 -->
+
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
 # n8n – The Platform for AI Agents and Workflow Automation
